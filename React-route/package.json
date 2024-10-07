@@ -1,0 +1,22 @@
+{
+  "name": "react-route-dom",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "Index.jsx",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicky-mc/Week-7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicky-mc/Week-7/issues"
+  },
+  "homepage": "https://github.com/nicky-mc/Week-7#readme",
+  "dependencies": {
+    "react-dom": "^18.3.1"
+  }
+}
